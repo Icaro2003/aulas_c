@@ -11,7 +11,7 @@ int main()
             n++;
             continue;
         }
-
+        
         printf("%d\n", n);
         n++;
     }
